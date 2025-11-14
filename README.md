@@ -1,6 +1,6 @@
 # Hi there, I'm **Mabbu Preetham** 👋
 
-I'm a passionate **IIIT Dharwad** student 🚀, deeply interested in programming and technology! I love to work with a variety of languages and frameworks. Here’s a little more about me:
+I'm a **IIIT Dharwad** student 🚀, deeply interested in programming and technology! I love to work with a variety of languages and frameworks. Here’s a little more about me:
 
 ---
 
