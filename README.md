@@ -14,7 +14,7 @@ I'm a **IIIT Dharwad** student 🚀, deeply interested in programming and techno
 ## 🤝 I’m looking to collaborate on:
 - **Web Development** Projects 💻
 - **Competitive Programming** problems ⚔️
-- **Open-Source Projects** (especially in Python or C) 🌍
+- **Open-Source Projects** 🌍
 
 ---
 
